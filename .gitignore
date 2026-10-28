@@ -1,0 +1,21 @@
+
+# Textbook
+Mark Allen DSA in C++ 4th Ed.pdf
+
+# Compiled files
+*.exe
+*.o
+
+# IDE files
+*.cbp
+*.layout
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.cpp
+~$*
+
+# Documents and PDFs
+*.pdf
+*.docx
+*.txt
